@@ -1,0 +1,21 @@
+:root {
+  font-family: "Pretendard Variable", sans-serif;
+  font-size: 100%;
+}
+
+button, input, select, textarea, div, p {
+  font-family: inherit;
+  font-size: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffffff; 
+}
+
+main {
+  display: grid;
+}
