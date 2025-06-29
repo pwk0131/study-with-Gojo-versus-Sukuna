@@ -1,3 +1,3 @@
 # study-with-kessoku-band
 
-[스쿠나를 물리치고 A+ 쟁취하자	]([http://www.google.co.kr](https://pwk0131.github.io/study-with-Gojo-versus-Sukuna/)).
+[스쿠나를 물리치고 A+ 쟁취하자	](http://www.google.co.kr](https://pwk0131.github.io/study-with-Gojo-versus-Sukuna/).
